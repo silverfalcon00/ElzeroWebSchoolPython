@@ -1,0 +1,14 @@
+#Task 1 = Done
+#Task 2 =
+Myname = "Ahmad"
+Agee = "25"
+Countryy = "Jordan"
+print("Name:",Myname)
+print("Age:",Agee)
+print("Country:",Countryy)
+#Task 3 =
+print("Hello,My name is "+Myname+" And I am "+Agee+" Years old and I live in "+Countryy)
+#Task 4
+print(type(Myname))
+print(type(Agee))
+print(type(Countryy))
