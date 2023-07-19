@@ -1,0 +1,6 @@
+#Task 1
+name = "Ahmad"
+age = 22
+country = "Jordan"
+
+print(""""Hello '%s',"""''' How You Doing \ """''' ' Your Age Is "%s"" ' " + And Your Country Is : %s" %(name,age,country))
