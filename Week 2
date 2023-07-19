@@ -2,5 +2,38 @@
 name = "Ahmad"
 age = 22
 country = "Jordan"
+Name = 'Elzero'
+word ="#@#@Elzero#@#@"
+a = "9"
+aa = "15"
+aaa = "130"
+aaaa = "950"
+aaaaa= "1500"
+name_one = "Osama"
+name_two = "Osama_Elzero"
+
 
 print(""""Hello '%s',"""''' How You Doing \ """''' ' Your Age Is "%s"" ' " + And Your Country Is : %s" %(name,age,country))
+#Task 2
+print(""""Hello '%s',"""''' How You Doing \ \n """''' ' Your Age Is "%s"" ' " +\n And Your Country Is : %s" %(name,age,country))
+#Task 3
+print(Name)
+print(Name[1])
+print(Name[2])
+print(Name[5])
+#Task 4
+print(Name)
+print(Name[1:4])
+print(Name[0:5:2])
+# print(Name[3::-1]) should be solved
+#Task 5
+print(word.strip("@#"))
+#Task 5
+print(a.zfill(4))
+print(aa.zfill(4))
+print(aaa.zfill(4))
+print(aaaa.zfill(4))
+print(aaaaa.zfill(4))
+#Task 6
+print(name_one.center(9,"@"))
+print(name_two)
